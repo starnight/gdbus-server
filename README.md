@@ -88,3 +88,4 @@ method return time=1711180494.668633 sender=:1.188 -> destination=:1.189 serial=
 * [GLib](https://docs.gtk.org/glib/index.html)
 * [Gio's test gdbus-example-server.c](https://gitlab.gnome.org/GNOME/glib/-/blob/2.80.0/gio/tests/gdbus-example-server.c)
 * [dbus-send](https://dbus.freedesktop.org/doc/dbus-send.1.html)
+* D-Bus debug tools: [dbus-send](https://dbus.freedesktop.org/doc/dbus-send.1.html), [dbus-monitor](https://dbus.freedesktop.org/doc/dbus-monitor.1.html) and [Bustle](https://gitlab.gnome.org/World/bustle)
